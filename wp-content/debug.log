@@ -53,3 +53,5 @@
 [07-May-2026 20:30:16 UTC]   Automatic plugin updates starting...
 [07-May-2026 20:30:16 UTC]   Automatic plugin updates complete.
 [07-May-2026 20:30:18 UTC] Automatic updates complete.
+[07-May-2026 23:19:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[07-May-2026 23:19:54 UTC] Cron reschedule event error for hook: llms_end_idle_sessions, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_five_mins","args":[],"interval":300}
