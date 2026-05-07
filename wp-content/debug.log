@@ -1,0 +1,55 @@
+[05-May-2026 19:32:35 UTC] Automatic updates starting...
+[05-May-2026 19:32:36 UTC]   Automatic plugin updates starting...
+[05-May-2026 19:32:37 UTC]   Automatic plugin updates complete.
+[05-May-2026 19:32:39 UTC] Automatic updates complete.
+[05-May-2026 19:40:12 UTC] [Elementor Atomic Widgets] [WARNING] Migrations manifest not found | Context: {"path":"https://migrations.elementor.com/manifest.json"}
+[05-May-2026 19:40:14 UTC] [Elementor Atomic Widgets] [WARNING] Migrations manifest not found | Context: {"path":"https://migrations.elementor.com/manifest.json"}
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=21852 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): Error while reading greeting packet. PID=12268 in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1994
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:36 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\BAYYANOOR\wordpress\wp-includes\class-wpdb.php on line 1993
+[06-May-2026 21:16:56 UTC] Automatic updates starting...
+[06-May-2026 21:16:59 UTC]   Automatic plugin updates starting...
+[06-May-2026 21:16:59 UTC]   Automatic plugin updates complete.
+[06-May-2026 21:17:01 UTC] Automatic updates complete.
+[07-May-2026 20:30:14 UTC] Automatic updates starting...
+[07-May-2026 20:30:16 UTC]   Automatic plugin updates starting...
+[07-May-2026 20:30:16 UTC]   Automatic plugin updates complete.
+[07-May-2026 20:30:18 UTC] Automatic updates complete.

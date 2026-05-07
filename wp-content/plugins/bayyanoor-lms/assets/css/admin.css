@@ -1,0 +1,108 @@
+/* Bayyanoor Admin Settings Styles */
+.bn-admin-wrap {
+    max-width: 1100px;
+}
+
+.bn-admin-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1.6rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.bn-admin-logo {
+    width: 38px;
+    height: 38px;
+    display: grid;
+    place-items: center;
+    border-radius: 8px;
+    background: #115e41;
+    color: #f7dfb6;
+    font-size: 0.82rem;
+    font-weight: 900;
+    letter-spacing: 0.04em;
+}
+
+.bn-admin-tabs {
+    margin-bottom: 1.5rem !important;
+}
+
+.bn-admin-tabs .nav-tab-active {
+    background: #115e41;
+    color: white;
+    border-color: #115e41;
+}
+
+.bn-form-table input.regular-text {
+    width: 100%;
+}
+
+.bn-form-table textarea.large-text {
+    font-family: monospace;
+    font-size: 12px;
+}
+
+.bn-svg-preview {
+    margin-top: 8px;
+    width: 48px;
+    height: 48px;
+    padding: 8px;
+    background: #115e41;
+    border-radius: 8px;
+    color: #f7dfb6;
+}
+
+.bn-svg-preview svg {
+    width: 100%;
+    height: 100%;
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.bn-nav-editor {
+    margin-top: 0.5rem;
+}
+
+.bn-nav-editor th {
+    background: #f8f5ef;
+    font-weight: 650;
+    font-size: 0.86rem;
+    padding: 10px 8px;
+}
+
+.bn-nav-editor td {
+    padding: 8px;
+    vertical-align: top;
+}
+
+.bn-nav-editor input.regular-text {
+    width: 100%;
+}
+
+.bn-nav-editor .bn-new-row td {
+    background: #fafaf5;
+}
+
+.bn-admin-info {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #f0f8f4;
+    border-left: 4px solid #115e41;
+    border-radius: 4px;
+}
+
+.bn-admin-info p {
+    margin: 0.25rem 0;
+    font-size: 0.9rem;
+}
+
+.bn-admin-info code {
+    background: #e8f0eb;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
