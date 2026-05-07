@@ -1,0 +1,52 @@
+# === WordPress Core Distribution Files ===
+readme.html
+license.txt
+wp-config-sample.php
+
+# === Development & Debug ===
+test-db.php
+test-db2.php
+test-wp.php
+test.php
+*.log
+debug.log
+wp-content/debug.log
+
+# === OS / IDE ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+*.code-workspace
+
+# === Source Maps (never needed in production) ===
+*.map
+
+# === Caches, Backups, Temp ===
+wp-content/cache/
+wp-content/upgrade/
+wp-content/ai1wm-backups/
+wp-content/backups/
+wp-content/litespeed/
+wp-content/updraft/
+wp-content/wflogs/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# === Media Uploads (serve from CDN) ===
+wp-content/uploads/
+
+# === Node / Composer ===
+node_modules/
+vendor/
+
+# === Unused Plugins (removed from repo) ===
+wp-content/plugins/elementor/
+wp-content/plugins/lifterlms/
+wp-content/plugins/akismet/
+
+# === Unused Themes ===
+wp-content/themes/twentytwenty*/
+wp-content/themes/twentynineteen/

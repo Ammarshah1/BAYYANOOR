@@ -1,10 +1,54 @@
+# === Git ===
+.git
+.gitignore
+.gitattributes
+
+# === WordPress Admin (not needed for serverless frontend) ===
+wp-admin
+
+# === Media & Uploads (serve from CDN/external storage) ===
 wp-content/uploads
-wp-content/cache
 wp-content/upgrade
+
+# === Caches & Backups ===
+wp-content/cache
 wp-content/ai1wm-backups
 wp-content/backups
 wp-content/litespeed
 wp-content/updraft
+wp-content/wflogs
+
+# === Unused Plugins (belt-and-suspenders) ===
+wp-content/plugins/elementor
+wp-content/plugins/lifterlms
+wp-content/plugins/akismet
+
+# === Unused Themes ===
+wp-content/themes/twentytwentyfive
+wp-content/themes/twentytwentyfour
+wp-content/themes/twentytwentythree
+
+# === Development Files ===
+*.map
+*.log
+test-db.php
+test-db2.php
+test-wp.php
+test.php
+readme.html
+license.txt
+wp-config-sample.php
+.htaccess
+
+# === Node / Package Manager ===
 node_modules
-.git
-xampp
+package-lock.json
+yarn.lock
+composer.lock
+
+# === IDE / OS ===
+.DS_Store
+Thumbs.db
+.idea
+.vscode
+*.code-workspace
